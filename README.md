@@ -6,7 +6,7 @@ Install on Chromium based browsers from here > https://chrome.google.com/webstor
 
 It is a fork of > https://github.com/up209d/ResourcesSaverExt
 
-- 2.1.1: Update icon and update to manifest v3 - Alex313031
+- 2.1.1: Update icon and update to manifest v3 - Alex313031 ([Me](https://github.com/Alex313031/))
 
 - 2.0.0: Fix styles and descriptions - Alex313031
 
