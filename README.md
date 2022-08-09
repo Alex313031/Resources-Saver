@@ -54,8 +54,8 @@ It is a fork of > https://github.com/up209d/ResourcesSaverExt
 
 ### Screenshots
 
-![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Alex313031/Resources-Saver/main/screenshot.png?raw=true)
 
 Outputs results with the same folder structure as online sources:
 
-![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Alex313031/Resources-Saver/main/screenshot2.png?raw=true)
