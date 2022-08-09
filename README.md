@@ -1,10 +1,14 @@
-# Resources Saver <img 
+# Resources Saver &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/Resources-Saver/main/icon.svg" width="48">
 
 ### Chromium Extension for one click downloading of all webpage resources files while keeping folder structures.
 
 Extension can be found here:
 
 https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US
+
+- 2.1.1: Update icon and update to manifest v3
+
+- 2.0.0: Fix styles and descriptions
 
 - 0.1.9: Add download list
 
