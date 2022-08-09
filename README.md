@@ -52,8 +52,10 @@ https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablah
 
 - 0.0.1: Download all webpages by re-dowloading them from resource-urls.
 
+### Screenshots
+
 ![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot.png?raw=true)
 
-Output results with same structure as online sources:
+Outputs results with the same folder structure as online sources:
 
 ![alt text](https://github.com/up209d/ResourcesSaverExt/blob/master/screenshot2.png?raw=true)
