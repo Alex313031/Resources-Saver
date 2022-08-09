@@ -7,6 +7,8 @@
 	"offline_enabled": true,
 	"minimum_chrome_version": "88",
 	"description": "Save all of a webpage's files while retaining folder structure.",
+	"author": "Alex313031",
+	"homepage_url": "https://github.com/Alex313031/Resources-Saver",
 	"icons": {
     "16": "icons/icon16.png",
     "24": "icons/icon24.png",
