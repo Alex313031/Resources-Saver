@@ -2,7 +2,7 @@
 
 ### Chromium Extension for one click downloading of all webpage resources files while keeping folder structures.
 
-Install on Chromium based browsers from here > https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US
+Install on Chromium based browsers from here > https://chrome.google.com/webstore/detail/resources-saver/nlfcijlhljpenllloeheihmhoobeefpc
 
 It is a fork of > https://github.com/up209d/ResourcesSaverExt
 
